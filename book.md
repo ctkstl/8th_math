@@ -1,3 +1,9 @@
+---
+layout: default
+title: Book
+permalink: /book/
+---
+
 # earth_science
 Resources for teaching Pearson's Interactive Science - Earth Science book
 
@@ -16,4 +22,3 @@ ISBN-10:     0-13-320928-8
 Volume 3
 ISBN-13: 978-0-13-320929-7
 ISBN-10:     0-13-320929-6
-
