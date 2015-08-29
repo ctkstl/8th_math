@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trying a test.
+title: First Class.
 ---
 
 This is a test.
