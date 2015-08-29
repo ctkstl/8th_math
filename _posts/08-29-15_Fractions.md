@@ -59,3 +59,7 @@ Or a sub-section header
 
 sub-section
 -----------
+
+If you want emphasis (italics) you can use *single astericks* around the word(s).
+
+If you want strong emphasis (bold) you can use **double astericks** around the word(s).
