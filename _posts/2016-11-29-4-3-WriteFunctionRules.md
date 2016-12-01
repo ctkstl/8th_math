@@ -1,5 +1,5 @@
 ---
-layout :post
+layout: post
 title: 4-3 Write Function Rules (orange)
 ---
 Try These # 1-5
