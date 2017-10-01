@@ -28,7 +28,7 @@ permalink: /outline
     * [1-13 Powers and Exponents](1-13-Powers-and-Exponents-purple)
     * [1-14 Order of Operations](1-14-Order-of-Operations)
  * Chapter 2
-    * [2-1 & 2-2 Scientific Notation](1-7-Scientific Notation)
+    * [2-1 & 2-2 Scientific Notation](1-7-Scientific-Notation)
     * [2-3 Perfect Squares and Square Roots](2-3-Squares-and-Square-Roots)
     * [2-4 Estimate Square Roots](2-4-Estimating-Square-Roots)
     * [2-5 Irrational Numbers](2-5-Irrational-Numbers)
