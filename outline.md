@@ -15,7 +15,7 @@ permalink: /outline
 # 8th Grade Math - Purple Book
 
 * Chapter 1
-    * [Lesson 2 - Rational Numbers on a Number Line](1-2-Rational-Numbers-Number-Line)
+    * [1-2 Rational Numbers on a Number Line](1-2-Rational-Numbers-Number-Line)
     * [1-3 GCF](1-3-GCF)
     * [1-4 LCM](1-4-LCM)
     * [1-5 & 1-6 Compare, Order and Estimate with Rational Numbers](1-5&1-6-Compare-Order-Estimate)
@@ -31,23 +31,24 @@ permalink: /outline
     * [2-1 & 2-2 Scientific Notation](1-7-Scientific Notation)
     * [2-3 Perfect Squares and Square Roots](2-3-Squares-and-Square-Roots)
     * [2-4 Estimate Square Roots](2-4-Estimating-Square-Roots)
-    * [2-5 Irrational Numbers]
-    * [2-6 Simplifying Irrational square roots]
-    * [2-7 Real Number System]
-    * [2-8 Properties of Real Numbers]
+    * [2-5 Irrational Numbers](2-5-Irrational-Numbers)
+    * [2-6 Simplifying Irrational square roots](2-6-Square-Roots-Irrational-Numbers)
+    * [2-7 Real Number System](2-7-The-Real-Number-System)
+    * [2-8 Properties of Real Numbers](2-8-PropertiesofRealNumbers)
     * [2-9 Pythagorean Theorem](2-9-Pythagoreantheorem)
-    * [2-10 Special Right Triangles]
+    * [2-10 Special Right Triangles](Special-Right-Triangles)
  * Chapter 3
-    * [3-1 Mathematical Expressions]
-    * [3-2 Evaluate Algebraic Expressions]
-    * [3-4 Solve Addition and Subtraction Equations]
-    * [3-5 Solve Multiplication and Division Equations]
-    * [3-7 Solve 2-step Equations]
-    * [3-8 Multistep equations with grouping symbols
+    * [3-1 Mathematical Expressions](3-1-Mathematical-Expressions)
+    * [3-2 Evaluate Algebraic Expressions](3-2-Simplify-Evaluate-Alg-Expressions)
+    * [3-3 Equations](3-3-Equations)
+    * [3-4 Solve Addition and Subtraction Equations](3-4-add-and-subtract-equations)
+    * [3-5 Solve Multiplication and Division Equations](3-5-Mult-Div-Equations)
+    * [3-7 Solve 2-step Equations](3-7-twostepequations)
+    * [3-8 Multistep equations with grouping symbols](3-8-MultistepGroupingSymbols)
     * [3-9 Multistep equations with variables on both sides]
-    * [3-10 Multistep Equations with fractions and decimals]
-    * [3-12 Absolute value equations]
-    * [3-13 Literal Equations, Formulas]
+    * [3-10 Multistep Equations with fractions and decimals](3-10-Multistep-Equations-Frac-Dec)
+    * [3-12 Absolute value equations](2-6-AbsoluteValue)
+    * [3-13 Literal Equations, Formulas](3-13-LiteralEquations)
  * Chapter 4
     * [4-1 & 4-2 Inequalities: graphing solution sets]
     * [4-3 Solve 1-step Addition Inequalities]
@@ -123,17 +124,17 @@ permalink: /outline
 # 8th Grade Math - Orange Book
 * Chapter 1
    * [1-1 Rational and Irrational Numbers]
-   * [1-2 Set of Real Numbers]
-   * [1-3 Add and Subtract Real Numbers]
+   * [1-2 Set of Real Numbers](1-2-orange)
+   * [1-3 Add and Subtract Real Numbers](1-3-orange)
    * [1-4 Multiply and Divide Real Numbers]
-   * [1-5 Integer Exponents and Powers
-   * [1-6 Order of Operations
-   * [1-7 Scientific Notation, Add, Subtract, Multiply, Divide]
+   * [1-5 Integer Exponents and Powers](1-5-Integer-Exponents)
+   * [1-6 Order of Operations](1-6-Order-of-Operations)
+   * [1-7 Scientific Notation, Add, Subtract, Multiply, Divide](1-7-Scientific-Notation)
    * [1-8 Algebraic Expressions]
-   * [1-9 Properties of Real Numbers]
-   * [1-10 Sets and Operations]
-   * [1-11 Matrices: Addition and Subtraction]
-   * [1-12 Matrices: Multiplication and Division]
+   * [1-9 Properties of Real Numbers](1-11-Properties-Rational-Numbers)
+   * [1-10 Sets and Operations](1-10-Sets-and-Operations)
+   * [1-11 Matrices: Addition and Subtraction](1-11-Matrices)
+   * [1-12 Matrices: Multiplication and Division](1-12-Operations-Matrices-Multiplication)
  * Chapter 2
    * [2-1 Open Sentences and Solution Sets]
    * [2-2 & 2-3 Solve 1-step Addition, Subtraction, Multiplication and Division Equations]
