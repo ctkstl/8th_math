@@ -115,6 +115,7 @@ permalink: /outline
  
 
 # 8th Grade Math - Orange Book
+* Chapter 1
    * (1-1 Rational and Irrational Numbers)
    * (1-2 Set of Real Numbers)
    * (1-3 Add and Subtract Real Numbers)
@@ -122,4 +123,75 @@ permalink: /outline
    * (1-5 Integer Exponents and Powers
    * (1-6 Order of Operations
    * (1-7 Scientific Notation, Add, Subtract, Multiply, Divide)
+   * (1-8 Algebraic Expressions)
+   * (1-9 Properties of Real Numbers)
+   * (1-10 Sets and Operations)
+   * (1-11 Matrices: Addition and Subtraction)
+   * (1-12 Matrices: Multiplication and Division)
+ * Chapter 2
+   * [2-1 Open Sentences and Solution Sets]
+   * [2-2 & 2-3 Solve 1-step Addition, Subtraction, Multiplication and Division Equations]
+   * [2-4 Solve 2-step Equations]
+   * [2-5 Multistep Equations]
+   * [2-6 Absolute Value Equations]
+   * [2-7 Formulas and Literal Equations]
+ * Chapter 3
+   * [3-1 Write and Graph Inequalities]
+   * [3-2 & 3-3 Solve Inequalities with Addition, Subtraction, Multiplication and Division]
+   * [3-4 Solve Multistep Inequalities]
+   * [3-5 Solve compound Inequalities]
+   * [3-6 Absolute-value Inequalities]
+ * Chapter 4
+   * [4-1 Relations]
+   * [4-2 Functions]
+   * [4-3 Write Function Rules]
+   * [4-4 Arithmetic Sequences]
+   * [4-5 Geometric Sequences]
+ * Chapter 7
+   * [7-1 Polynomials: definition, name, degree]
+   * [7-2 Add and Subtract polynomials]
+   * [7-3 Multiply a polynomial by a monomial]
+   * [7-5 Multiply binomials]
+   * [7-6 Multiply polynomials]
+   * [7-7 Divide a polynomial by a monomial]
+   * [7-8 Divide a polynomial by a monomial]
+   * [7-9 Divide polynomials using long division]
+ * Chapter 8
+   * [8-1 Common Monomial Factors, GCF]
+   * [8-2 Factor Trinomials]
+   * [8-3 Factoring trinomials where a does not equal 1]
+   * [8-4 Squared binomials]
+   * [8-5 Difference of two squares]
+   * [8-6 Factor by grouping]
+   * [8-7 Factor completely]
+ * Chapter 9
+   * [9-1 Simplify Radical Expressions]
+   * [9-2 Add and Subtract Radical expressions]
+   * [9-3 Multiply and divide radical expressions]
+   * [9-4 Solve radical equations]
+   * [9-5 Pythagorean Theorem]
+   * [9-6 Distance in the coordinate plane]
+ * Chapter 10
+   * [10-1 Identify quadratic equations and their graphs]
+   * [10-2 Graph quadratic functions: parabola]
+   * [10-3 Solve quadratic functions by factoring]
+   * [10-4 Solve verbal problems with quadratic functions]
+   * [10-5 Solve quadratic functions by completing the square]
+   * [10-6 Quadratic formula and the discriminant]
+   * [10-7 Solve quadratic equations with the Quadratic Formula]
+   * [10-8 Solve linear-quadratic systems]
+ * Chapter 11
+   * [11-1 Ratios and rates]
+   * [11-2 Apply proportion to scale models]
+   * [11-3 Relative error]
+   * [11-4 Apply percents to algebraic problems]
+   * [11-5 Trigonometric Ratios]
+   * [11-6 Trig ratios and right triangles]
+   * [11-7 Trig ratios and verbal problems]
+ * Chapter 12
+   * [12-1 Intro to Rational Expressions]
+   * [12-2 Simplify rational expressions]
+   * [12-3 Multiply rational expresssion]
+   * [12-4 Divide Rational Expressions]
+   * [12-5 Combine rational expressions with like denominators]
    
