@@ -29,7 +29,7 @@ permalink: /outline
     * [2-6 Simplifying Irrational square roots]
     * [2-7 Real Number System]
     * [2-8 Properties of Real Numbers]
-    * [2-9 Pythagorean Theorem](2-9-Pythagorean Theorem)
+    * [2-9 Pythagorean Theorem](2-9-Pythagorean-Theorem)
     * [2-10 Special Right Triangles]
  * Chapter 3
     * [3-1 Mathematical Expressions]
