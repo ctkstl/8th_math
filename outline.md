@@ -6,7 +6,7 @@ permalink: /outline
 # 7th Grade Math - Green Book
 
 * Chapter 8
-   * [8-1 Samples and Surveys]
+   * [8-1 Samples and Surveys](8-1-Samples-green)
    * [8-2 Measures of Central Tendency and Range]
    * [8-3 Interpret Data]
    * [8-4 Choose and Appropriate Graph]
@@ -16,22 +16,21 @@ permalink: /outline
 
 * Chapter 1
     * [Lesson 2 - Rational Numbers on a Number Line](1-2-Rational-Numbers-Number-Line)
-    * [1-3 GCF]
-    * [1-4 LCM]
-    * [1-5 Compare and Order Rational Numbers]
-    * [1-6 Estimate with Rational Numbers]
-    * [1-7 Add Rational Numbers]
-    * [1-8 Subtract Rational Numbers]
-    * [1-9 Multiply Rational Numbers]
-    * [1-10 Divide Rational Numbers]
-    * [1-11 Properties of Rational Numbers]
-    * [1-12 Integral Exponents]
-    * [1-13 Powers and Exponents]
-    * [1-14 Order of Operations]
+    * [1-3 GCF](1-3-GCF)
+    * [1-4 LCM](1-4-LCM)
+    * [1-5 & 1-6 Compare, Order and Estimate with Rational Numbers](1-5&1-6-Compare-Order-Estimate)
+    * [1-7 Add Rational Numbers](1-7-Add-Rational-Numbers)
+    * [1-8 Subtract Rational Numbers](1-8-Subtract-Rational-Numbers)
+    * [1-9 Multiply Rational Numbers](1-9-Multiply-Rational-Numbers)
+    * [1-10 Divide Rational Numbers](1-10-Divide-Rationals)
+    * [1-11 Properties of Rational Numbers](1-11-Properties-Rational-Numbers)
+    * [1-12 Integral Exponents](Purple-1-12-Exponents)
+    * [1-13 Powers and Exponents](1-13-Powers-and-Exponents-purple)
+    * [1-14 Order of Operations](1-14-Order-of-Operations)
  * Chapter 2
-    * [2-1 & 2-2 Scientific Notation]
-    * [2-3 Perfect Squares and Square Roots]
-    * [2-4 Estimate Square Roots]
+    * [2-1 & 2-2 Scientific Notation](1-7-Scientific Notation)
+    * [2-3 Perfect Squares and Square Roots](2-3-Squares-and-Square-Roots)
+    * [2-4 Estimate Square Roots](2-4-Estimating-Square-Roots)
     * [2-5 Irrational Numbers]
     * [2-6 Simplifying Irrational square roots]
     * [2-7 Real Number System]
