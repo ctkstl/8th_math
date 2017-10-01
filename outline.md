@@ -5,6 +5,13 @@ permalink: /outline
 ---
 # 7th Grade Math - Green Book
 
+* Chapter 8
+   * [8-1 Samples and Surveys]
+   * [8-2 Measures of Central Tendency and Range]
+   * [8-3 Interpret Data]
+   * [8-4 Choose and Appropriate Graph]
+   * [8-5 Multiple Bar Graphs]
+
 # 8th Grade Math - Purple Book
 
 * Chapter 1
@@ -194,3 +201,14 @@ permalink: /outline
    * [12-3 Multiply rational expresssion]
    * [12-4 Divide Rational Expressions]
    * [12-5 Combine rational expressions with like denominators]
+   * [12-6 Combine Rational Expressions with unlike denominators]
+   * [12-7 Mixed expressions and complex fractions]
+   * [12-8 Solve rational equations resulting in linear equations]
+   * [12-9 Solve rational equations resulting in quadratic equations]
+ * Chapter 13
+   * [13-1 Inverse Variation]
+   * [13-2 Graph rational functions]
+   * [13-3 Graph radical functions]
+   * [13-4 Identify Exponential functions and their graphs]
+   * [13-5 Exponential growth and decay]
+   
