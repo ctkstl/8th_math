@@ -125,7 +125,7 @@ permalink: /outline
    * [1-1 Rational and Irrational Numbers]
    * [1-2 Set of Real Numbers](1-2-orange)
    * [1-3 Add and Subtract Real Numbers](1-3-orange)
-   * [1-4 Multiply and Divide Real Numbers]
+   * [1-4 Multiply and Divide Real Numbers](1-4-Multiply-Divide-Real)
    * [1-5 Integer Exponents and Powers](1-5-Integer-Exponents)
    * [1-6 Order of Operations](1-6-Order-of-Operations)
    * [1-7 Scientific Notation, Add, Subtract, Multiply, Divide](1-7-Scientific-Notation)
