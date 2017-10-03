@@ -122,7 +122,7 @@ permalink: /outline
 
 # 8th Grade Math - Orange Book
 * Chapter 1
-   * [1-1 Rational and Irrational Numbers]
+   * [1-1 Rational and Irrational Numbers](1-1-Rational-Irrational)
    * [1-2 Set of Real Numbers](1-2-orange)
    * [1-3 Add and Subtract Real Numbers](1-3-orange)
    * [1-4 Multiply and Divide Real Numbers](1-4-Multiply-Divide-Real)
