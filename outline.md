@@ -10,7 +10,7 @@ permalink: /outline
    * [8-2 Measures of Central Tendency and Range]
    * [8-3 Interpret Data]
    * [8-4 Choose and Appropriate Graph]
-   * [8-5 Multiple Bar Graphs]
+   * [8-5 Multiple Bar Graphs](8-5-MultipleBarGraphs)
 
 # 8th Grade Math - Purple Book
 
