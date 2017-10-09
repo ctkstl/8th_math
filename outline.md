@@ -11,6 +11,7 @@ permalink: /outline
    * [8-3 Interpret Data]
    * [8-4 Choose and Appropriate Graph]
    * [8-5 Multiple Bar Graphs](8-5-MultipleBarGraphs)
+   * [8-7 Stem and Leaf Plots](8-7-StemLeaf)
 
 # 8th Grade Math - Purple Book
 
