@@ -12,6 +12,7 @@ permalink: /outline
    * [8-4 Choose and Appropriate Graph]
    * [8-5 Multiple Bar Graphs](8-5-MultipleBarGraphs)
    * [8-7 Stem and Leaf Plots](8-7-StemLeaf)
+   * [8-8 Box and Whisker Plots](8-8-BoxWhisker)
 
 # 8th Grade Math - Purple Book
 
