@@ -47,7 +47,7 @@ permalink: /outline
     * [3-5 Solve Multiplication and Division Equations](3-5-Mult-Div-Equations)
     * [3-7 Solve 2-step Equations](3-7-twostepequations)
     * [3-8 Multistep equations with grouping symbols](3-8-MultistepGroupingSymbols)
-    * [3-9 Multistep equations with variables on both sides]
+    * [3-9 Multistep equations with variables on both sides](3-9-MultistepVariablesBothSides)
     * [3-10 Multistep Equations with fractions and decimals](3-10-Multistep-Equations-Frac-Dec)
     * [3-12 Absolute value equations](2-6-AbsoluteValue)
     * [3-13 Literal Equations, Formulas](3-13-LiteralEquations)
