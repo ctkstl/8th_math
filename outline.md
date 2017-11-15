@@ -50,7 +50,7 @@ permalink: /outline
     * [3-9 Multistep equations with variables on both sides](3-9-MultistepVariablesBothSides)
     * [3-10 Multistep Equations with fractions and decimals](3-10-Multistep-Equations-Frac-Dec)
     * [3-12 Absolute value equations](2-6-AbsoluteValue)
-    * [3-13 Literal Equations, Formulas](3-13-LiteralEquations)
+    * [3-13 Literal Equations](3-13-LiteralEquations)
  * Chapter 4
     * [4-1 & 4-2 Inequalities: graphing solution sets](3-1&4-1-Inequalities)
     * [4-3 Solve 1-step Addition Inequalities](4-3-Solve-addition-inequality)
