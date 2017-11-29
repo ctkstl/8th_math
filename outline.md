@@ -52,7 +52,8 @@ permalink: /outline
     * [3-12 Absolute value equations](2-6-AbsoluteValue)
     * [3-13 Literal Equations](2-7-3-13-LiteralEquations)
  * Chapter 4
-    * [4-1 & 4-2 Inequalities: graphing solution sets](3-1&4-1-Inequalities)
+    * [4-1 Inequalities: graphing solution sets](3-1&4-1-Inequalities)
+    * [4-2 Solution Sets](4-2-InequalitiesSolutionSet)
     * [4-3 Solve 1-step Addition Inequalities](4-3-Solve-addition-inequality)
     * [4-4 Solve 1-step Subtraction Inequalities](4-4-Subtraction-Inequality)
     * [4-5 Solve 1-step Multiplication Inequalities](4-5-Multiplication-Inequalities)
