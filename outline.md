@@ -110,7 +110,8 @@ permalink: /outline
     * [11-4 Relationships with graphs]
     * [11-5 Find function values]
     * [11-6 Quadratic functions]
-    * [11-7 Absolute value functions](AbsoluteValueEquations)
+    * [11-7 Absolute value functions](11-7-Other-Nonlinear-Functions)
+      * [Khan Academy Practice](AbsoluteValueEquations)
     * [11-8 Inverse variation]
  * Chapter 12
     * [12-1 Polyhedrons](12-1-Polyhedrons)
