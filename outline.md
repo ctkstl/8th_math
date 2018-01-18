@@ -83,7 +83,7 @@ permalink: /outline
     * [6-4 Slope](6-4-Slope)
     * [6-5 x and y intercepts](6-5-x-y-intercepts)
     * [6-6 Linear functions: standard form and slope-intercept form](6-6-LinearEquations)
-    * [6-7 Linear functions: point-slope form](6-7-Point-slope-form)
+    * [6-7 Linear functions: point-slope form](6-7-Point-slope-Form)
     * [6-8 Parallel and Perpendicular lines](6-8-Parallel-Perpendicular)
     * [6-9 Direct Variation](6-9-Direct-Variation)
     * [6-10 Systems of Equations - graphing](6-10-Systems-of-Linear-Equations-Graphing)
