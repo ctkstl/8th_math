@@ -191,8 +191,8 @@ permalink: /outline
    * [12-3 Multiply rational expresssion](12-2-Multiply-Rational-Expressions)
    * [12-4 Divide Rational Expressions](12-4-divide-rationals)
    * [12-5 Combine rational expressions with like denominators](12-5-Like-Denominators)
-   * [12-6 Combine Rational Expressions with unlike denominators]
-   * [12-7 Mixed expressions and complex fractions]
+   * [12-6 Combine Rational Expressions with unlike denominators](12-6-Unlike-Denominators)
+   * [12-7 Mixed expressions and complex fractions](12-7-Mixed-Expressions)
    * [12-8 Solve rational equations resulting in linear equations]
    * [12-9 Solve rational equations resulting in quadratic equations]
  * Chapter 13
