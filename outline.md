@@ -194,7 +194,7 @@ permalink: /outline
    * [12-6 Combine Rational Expressions with unlike denominators](12-6-Unlike-Denominators)
    * [12-7 Mixed expressions and complex fractions](12-7-Mixed-Expressions)
    * [12-8 Solve rational equations resulting in linear equations](12-8-Rational-Equations)
-   * [12-9 Solve rational equations resulting in quadratic equations]
+   * [12-9 Solve rational equations resulting in quadratic equations](12-9-Rational-Equations2)
  * Chapter 13
    * [13-1 Inverse Variation]
    * [13-2 Graph rational functions]
