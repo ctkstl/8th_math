@@ -196,7 +196,7 @@ permalink: /outline
    * [12-8 Solve rational equations resulting in linear equations](12-8-Rational-Equations)
    * [12-9 Solve rational equations resulting in quadratic equations](12-9-Rational-Equations2)
  * Chapter 13
-   * [13-1 Inverse Variation]
+   * [13-1 Inverse Variation](13-1-Inverse-Variation)
    * [13-2 Graph rational functions]
    * [13-3 Graph radical functions]
    * [13-4 Identify Exponential functions and their graphs]
