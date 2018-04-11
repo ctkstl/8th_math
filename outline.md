@@ -198,7 +198,7 @@ permalink: /outline
  * Chapter 13
    * [13-1 Inverse Variation](13-1-Inverse-Variation)
    * [13-2 Graph Rational Functions](13-2-GraphRationalFunctions)
-   * [13-3 Graph Radical Functions]
+   * [13-3 Graph Radical Functions](13-3-GraphRadicalFunctions)
    * [13-4 Identify Exponential Functions and their graphs]
    * [13-5 Exponential growth and decay]
    
