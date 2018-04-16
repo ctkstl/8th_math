@@ -185,6 +185,7 @@ permalink: /outline
    * [11-5 Trigonometric Ratios](11-5-Trig-Ratios)
    * [11-6 Trig ratios and right triangles](11-6-TrigPractice)
    * [11-7 Trig ratios and verbal problems](11-7-Trig-Ratios-Verbal-Problems)
+   * [11-extra Distance & Time Problems](11-extra-DistanceTime)
  * Chapter 12
    * [12-1 Intro to Rational Expressions](12-1-Rational-Expresssions)
    * [12-2 Simplify rational expressions](12-2-Simplify-Rational-Expression)
