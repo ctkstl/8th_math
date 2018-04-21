@@ -201,5 +201,5 @@ permalink: /outline
    * [13-2 Graph Rational Functions](13-2-GraphRationalFunctions)
    * [13-3 Graph Radical Functions](13-3-GraphRadicalFunctions)
    * [13-4 Identify Exponential Functions and their graphs](13-4-ExponentialFunctions)
-   * [13-5 Exponential growth and decay]
+   * [13-5 Exponential growth and decay](13-5-ExponentialGrowthDecay)
    
