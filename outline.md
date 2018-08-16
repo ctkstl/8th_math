@@ -189,7 +189,7 @@ permalink: /outline
  * Chapter 12
    * [12-1 Intro to Rational Expressions](12-1-Rational-Expressions)
    * [12-2 Simplify rational expressions](12-2-Simplify-Rational-Expression)
-   * [12-3 Multiply rational expression](12-3-Multiply-Rational-Expressions)
+   * [12-3 Multiply rational expressions](12-3-Multiply-Rational-Expressions)
    * [12-4 Divide Rational Expressions](12-4-divide-rationals)
    * [12-5 Combine rational expressions with like denominators](12-5-Like-Denominators)
    * [12-6 Combine Rational Expressions with unlike denominators](12-6-Unlike-Denominators)
