@@ -187,7 +187,7 @@ permalink: /outline
    * [11-7 Trig ratios and verbal problems](11-7-Trig-Ratios-Verbal-Problems)
    * [11-extra Distance & Time Problems](11-extra-DistanceTime)
  * Chapter 12
-   * [12-1 Intro to Rational Expressions](12-1-Rational-Expresssions)
+   * [12-1 Intro to Rational Expressions](12-1-Rational-Expressions)
    * [12-2 Simplify rational expressions](12-2-Simplify-Rational-Expression)
    * [12-3 Multiply rational expresssion](12-2-Multiply-Rational-Expressions)
    * [12-4 Divide Rational Expressions](12-4-divide-rationals)
