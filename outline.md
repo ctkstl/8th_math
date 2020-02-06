@@ -112,6 +112,8 @@ permalink: /outline
     * [12-7 Volume of spheres](12-7-VolumeSpheres)
     * [12-8 Similar 3-D Figures](12-8-Similar-Figures)
     * [12-9 Effect of changing dimensions](12-9-Effects-of-Changing-Dimension)
+  * Chapter 14
+    * [14-7 Pascal's Triangle and Probability](14-7PascalsTriangle)
  
 
 # 8th Grade Math - Orange Book
